@@ -13,6 +13,7 @@ class SalaMensajes {
             }
         }
         mensaje = msg;
+        
         disponible = true;
         System.out.println("📤 Mensaje producido: " + msg);
         notifyAll(); // Despierta a todos los consumidores
