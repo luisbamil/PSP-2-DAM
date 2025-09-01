@@ -1,4 +1,4 @@
-package ejemplo1;
+package ejemplo_wait_notify_notifyAll_CoordinarHilos;
 public class CoordinacionHilos {
     public static void main(String[] args) {
         SalaMensajes sala = new SalaMensajes();

@@ -1,4 +1,4 @@
-package ejemplo1;
+package ejemplo_wait_notify_notifyAll_CoordinarHilos;
 class SalaMensajes {
     private String mensaje;
     private boolean disponible = false;
