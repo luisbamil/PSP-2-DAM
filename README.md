@@ -1,6 +1,30 @@
-# 🧵 Concurrencia y sincronización en Java — 2º DAM · PSP
+# 📘 Ejemplos prácticos PSP · 2º DAM · UCAM
 
-Bienvenidos al repositorio oficial de ejemplos prácticos para la asignatura de **Programación de Servicios y Procesos (PSP)**, impartida en **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Este repositorio contiene ejemplos de código organizados por unidades temáticas de la asignatura **Programación de Servicios y Procesos (PSP)**. Cada unidad está disponible como una rama independiente en GitHub, y puedes acceder directamente al código fuente mediante los enlaces que aparecen a continuación.
+
+---
+
+## 📂 Índice de unidades y enlaces al código
+
+| Unidad | Tema | Rama | Enlace directo |
+|--------|------|------|----------------|
+| U1     | Multiprocesos | `U1-Multiprocesos` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U1-Multiprocesos) |
+| U2     | Multihilo | `U2_Multihilo` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U2_Multihilo) |
+| U3     | Sockets | `U3-Sockets` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U3-Sockets) |
+| U4     | Servicios en Red (API REST) | `U4-Servicios-en-Red-(API-Rest)` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U4-Servicios-en-Red-(API-Rest)) |
+| U5     | Seguridad y calidad | `U5-Seguridad-y-calidad-en-aplicaciones-y-servicios` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U5-Seguridad-y-calidad-en-aplicaciones-y-servicios) |
+
+> 🧠 **Nota**: Puedes copiar y pegar estos enlaces directamente en tus diapositivas para que los alumnos accedan al código de cada unidad sin complicaciones.
+
+---
+
+## 🛠️ Cómo usar este repositorio
+
+1. Selecciona la unidad que te interesa desde el índice.
+2. Haz clic en el enlace para ver el código fuente.
+3. Puedes descargarlo o clonarlo en Eclipse IDE para ejecutarlo y modificarlo.
+
+---
 
 Aquí encontrarás una colección de ejercicios y demostraciones sobre:
 
@@ -48,3 +72,10 @@ En la carpeta `/imagenes` encontrarás diagramas explicativos del ciclo de vida 
 ---
 
 ¡Explora, experimenta y aprende! 🚀
+
+## 🔐 Licencia y uso académico
+
+Este material está destinado exclusivamente al uso académico por parte de los alumnos de la UCAM.  
+Queda prohibida su distribución, modificación o publicación sin autorización expresa del autor.
+
+© Luis [Tu Apellido], UCAM 2025.
