@@ -8,11 +8,11 @@ Este repositorio contiene ejemplos de código organizados por unidades temática
 
 | Unidad | Tema | Rama | Enlace directo |
 |--------|------|------|----------------|
-| U1     | Multiprocesos | `U1-Multiprocesos` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U1-Multiprocesos) |
+| U1     | Multiprocesos | `U1-Multiprocesos` | [Ver código](https://github.com/luisbamil/PSP-2-DAM/tree/U1-Multiprocesos) |
 | U2     | Multihilo | `U2_Multihilo` | [Ver código](https://github.com/luisbamil/PSP-2-DAM/tree/U2_Multihilo) |
-| U3     | Sockets | `U3-Sockets` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U3-Sockets) |
-| U4     | Servicios en Red (API REST) | `U4-Servicios-en-Red-(API-Rest)` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U4-Servicios-en-Red-(API-Rest)) |
-| U5     | Seguridad y calidad | `U5-Seguridad-y-calidad-en-aplicaciones-y-servicios` | [Ver código](https://github.com/tuusuario/PSP-2-DAM/tree/U5-Seguridad-y-calidad-en-aplicaciones-y-servicios) |
+| U3     | Sockets | `U3-Sockets` | [Ver código](https://github.com/luisbamil/PSP-2-DAM/tree/U3-Sockets) |
+| U4     | Servicios en Red (API REST) | `U4-Servicios-en-Red-(API-Rest)` | [Ver código](https://github.com/luisbamil/PSP-2-DAM/tree/U4-Servicios-en-Red-(API-Rest)) |
+| U5     | Seguridad y calidad | `U5-Seguridad-y-calidad-en-aplicaciones-y-servicios` | [Ver código](https://github.com/luisbamil/PSP-2-DAM/tree/U5-Seguridad-y-calidad-en-aplicaciones-y-servicios) |
 
 > 🧠 **Nota**: Puedes copiar y pegar estos enlaces directamente en tus diapositivas para que los alumnos accedan al código de cada unidad sin complicaciones.
 
