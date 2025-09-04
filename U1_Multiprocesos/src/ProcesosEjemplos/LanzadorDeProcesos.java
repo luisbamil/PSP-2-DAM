@@ -1,4 +1,4 @@
-package ejemplos;
+package ProcesosEjemplos;
 import java.io.IOException;
 
 public class LanzadorDeProcesos {
