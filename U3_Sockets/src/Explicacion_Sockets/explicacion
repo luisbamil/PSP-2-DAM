@@ -1,0 +1,12 @@
+Resumen didáctico
+ServidorSocket: se usa solo en el servidor para escuchar conexiones.
+
+Socket: representa una conexión activa entre cliente y servidor.
+
+Puerto: número que identifica el canal de comunicación (5000 en este caso).
+
+accept(): el servidor se queda esperando hasta que un cliente se conecte.
+
+new Socket(host, puerto): el cliente intenta conectarse al servidor.
+
+try-with-resources: asegura que los sockets se cierren automáticamente.
